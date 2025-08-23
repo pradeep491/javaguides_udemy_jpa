@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.test</groupId>
-    <artifactId>SpringDataJpaEx-Section9</artifactId>
+    <artifactId>SpringDataJpaEx-Section10</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringDataJpaEx-Section9</name>
-    <description>SpringDataJpaEx-Section9</description>
+    <name>SpringDataJpaEx-Section10</name>
+    <description>SpringDataJpaEx-Section10</description>
     <url/>
     <licenses>
         <license/>
